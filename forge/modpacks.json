@@ -1,0 +1,11 @@
+{
+  "comment": "Template file, please edit. Example below of how you make a modpack. DON'T FORGET TO REMOVE THIS COMMENT",
+  "1.12.2": [
+    "example-modpack-v1": [
+      "name": "Example Modpack",
+      "description": "The best ever modpack, air.",
+      "version": "1.0",
+      "authors": ["Telecode", "iAmSpace"]
+    ]
+  ]
+}
